@@ -8,3 +8,125 @@ h1, h2, h3 {
     font-family: asap, sans-serif;
     color: #000000;
 }
+
+.botao {
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px ;
+    background-color: #191970;
+    font-size: 0.9em;
+    border-radius: 7px;
+}
+
+
+/*navegação*/
+
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #191970;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 32px;
+    font-family: yellowtail, sans-serif;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+
+}
+
+nav ul li {
+    text-align: center;
+    width: 100%;
+
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 10px 0;
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+/*cabeçalho*/
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../imagens/camera.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+
+}
+
+header h1 {
+    color: #ffffff;
+
+}
+
+header p {
+    margin-bottom:2em ;
+
+}
+
+#sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px 10px 20px 20px ;
+    background-color: #191970;
+    color: white;
+}
+
+#sobre h2 {
+    color: #ffffff;
+
+}
+
+#sobre p {
+    margin-bottom: 2.5em;
+    max-width: 1000px;
+}
+
+#sobre .botao {
+   background-color: #f1f1f1;
+   color: #1c1c1c;
+
+}
+
+/*serviços*/
+
+#serviços {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+
+}
+
+#seviços div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
