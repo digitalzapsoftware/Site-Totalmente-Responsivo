@@ -284,8 +284,6 @@ footer a:hover {
         margin: 0 auto;
     }
 
-    #contato h2, #contato p [
+    #contato h2, #contato p {
         width: 100%;
-
-    ]
-}
+    }
