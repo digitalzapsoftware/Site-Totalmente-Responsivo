@@ -1,2 +1,2 @@
 # Site-Totalmente-Responsivo
-Criando um Site com meus conhecimentos
+Site com conhecimentos adquiridos ao longo de estudos
