@@ -1,2 +1,2 @@
 # Site-Totalmente-Responsivo
-Site com conhecimentos adquiridos ao longo de estudos
+Site desenvolvido com apenas 2 meses de estudos de HTML & CSS
